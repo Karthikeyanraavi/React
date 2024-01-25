@@ -1,0 +1,15 @@
+.grid-container {
+    display: grid;
+    grid-template-columns:repeat(3, 1fr); /* Adjust the number of columns as needed */
+    gap: 20px; /* Adjust the gap between items */
+    justify-content: space-evenly;
+    padding: 20px;
+  }
+
+  .grid-item {
+    border: 1px ; /* Add a border for better visualization */
+    padding: 10px;
+    text-align: center;
+    background-color:antiquewhite;
+  }
+ 
