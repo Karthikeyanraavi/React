@@ -5,6 +5,7 @@ import About from "./About"
 import Contact from "./Contact"
 import Lay from "./Lay"
 import './App.css'
+import Footer from "./Footer"
 export default function App()
 {
   return(
@@ -18,9 +19,25 @@ export default function App()
 
       </Route>
     </Routes>
+    <div>
+//       {/* <Counter/><Effect/><Reducer/> */}
+//     <Footer/></div>
     </BrowserRouter>
   )
 }
 
 
+// import React from 'react'
+// import Counter from './Counter'
+// import Effect from './Effect'
+// import Reducer from './Reducer'
+// import Footer from './Footer'
 
+// export default function App() {
+//   return (
+//     <div>
+//       {/* <Counter/><Effect/><Reducer/> */}
+//     <Footer/></div>
+
+//   )
+// }

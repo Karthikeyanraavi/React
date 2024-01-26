@@ -1,0 +1,50 @@
+.last{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(94, 68, 68);
+    height: 22rem;
+    width: 100%;
+    padding-left: 55%;
+}
+.lasst{
+        display: flex;
+        flex-direction: row;
+    
+}
+.coll{
+    display: flex;
+    flex-direction: column;
+}
+.pad{
+    padding: 15px;
+}
+.lastrig{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    text-align: center;
+    font-family: 'Segoe UI';
+    color: aliceblue;
+}
+.final{
+        display: flex;
+        flex-direction: row;
+        background-color: linear-gradient(
+            to right top,
+            #051937,
+            #004d7a,
+            #008793,
+            #00bf72,
+            #a8eb12,
+        );
+        height: 5rem;
+        width: 100%;
+    
+}
+.Mfect{
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    padding: 20px;
+    padding-left: 30rem;
+}
